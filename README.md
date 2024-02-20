@@ -1,2 +1,2 @@
 # streamlit
-Streamlit Apps during DSR class
+These are my streamlit apps during DSR class
